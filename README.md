@@ -1,13 +1,12 @@
-multi _ calculator
-![1](https://github.com/user-attachments/assets/036907b9-f8d1-4128-ac8b-ee6021da1862)
-![2](https://github.com/user-attachments/assets/798b824b-714f-4f9b-bacd-2eacd82c3703)
-![3](https://github.com/user-attachments/assets/278e0c06-b0f7-4ba9-b7ba-f54e913a8c72)
-![4](https://github.com/user-attachments/assets/629ee581-b651-42f7-931b-fc37a23511a4)
-![5](https://github.com/user-attachments/assets/69633180-4438-48af-a17d-9eb9fdfc0cf9)
-![6](https://github.com/user-attachments/assets/a2c69cbd-18b4-42c1-a435-6d873ec576d2)
-![7](https://github.com/user-attachments/assets/106bbc49-0b93-4ccf-919c-2422cb2e940a)
-![8](https://github.com/user-attachments/assets/8c43d8e7-2fa4-4580-9d4c-81cc41beae8f)
-![9](https://github.com/user-attachments/assets/c6255153-961c-41d2-9631-59e3ba15f8c0)
-![10](https://github.com/user-attachments/assets/7ad0432f-875e-4cb4-99a3-62eb26c80712)
+**multi _ calculator**
+![WhatsApp Image 2024-09-14 at 4 44 40 AM](https://github.com/user-attachments/assets/e417de2b-ecb4-4f7b-a61d-941c61d6d12a)
+![WhatsApp Image 2024-09-14 at 4 44 40 AM (1)](https://github.com/user-attachments/assets/8bf3b0a4-f3ba-4747-a2cf-e62ded3a0676)
 
-
+![WhatsApp Image 2024-09-14 at 4 44 40 AM (2)](https://github.com/user-attachments/assets/b5ef4600-954a-4340-b40d-ebdf8d659b8d)
+![WhatsApp Image 2024-09-14 at 4 44 41 AM](https://github.com/user-attachments/assets/4a26e13e-e1e6-49a7-9d6e-9254ab3fcecd)
+![WhatsApp Image 2024-09-14 at 4 44 41 AM (1)](https://github.com/user-att![WhatsApp Image 2024-09-14 at 4 44 41 AM (2)](https://github.com/user-attachments/assets/f15071d8-2b4f-49ba-8c7b-af8281afcb98)
+achments/assets/bbaed32a-2975-4ee7-a1c1-f15996290742)
+![WhatsApp Image 2024-09-14 at 4 44 42 AM](https://github.com/user-attachments/assets/0bfd2148-0e6a-47c4-ba7c-3f351f2304cc)
+![WhatsApp Image 2024-09-14 at 4 44 42 AM (1)](https://github.com/user-att![WhatsApp Image 2024-09-14 at 4 44 42 AM (2)](https://github.com/user-attachments/assets/0d8b6670-fa4b-4f37-a403-92a601a41b98)
+achments/assets/165181eb-e14b-4c7f-856c-4fb979c7b89c)
+![WhatsApp Image 2024-09-14 at 4 44 43 AM](https://github.com/user-attachments/assets/caf9246b-6f49-4c64-b567-2a339714faa1)
